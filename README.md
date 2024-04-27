@@ -57,9 +57,9 @@ DIY项目： 由于易用性和低成本，ESP8266被广泛应用于各种DIY项
 
 
 ### 2.3 烧录固件（均来自网络包括GitHub）
+分享了两个固件，`Wi-PWN.9.0.english.bin`和`Wi-PWN.7.0.中文.bin`,我使用的是`Wi-PWN.7.0.中文.bin`
 
-
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/f9c2ceb6c3d3443e9a750ee38e2e524c.png)
 
 
 
