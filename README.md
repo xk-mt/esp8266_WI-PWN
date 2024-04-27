@@ -43,12 +43,30 @@ DIY项目： 由于易用性和低成本，ESP8266被广泛应用于各种DIY项
 
 ---
 ## 2.软件程序
-### 2.1 驱动程序（CH341SER.EXE）
+### 2.1 程序分享
+都是一样的文件，方便你们下载，本来想蓝奏云的不太会就懒弄了
+
+```bash
+GitHub：https://github.com/xk-mt/esp8266_WI-PWN
+
+百度网盘：https://pan.baidu.com/s/1_YDOjfk8Gqm30l7ue7p1EQ?pwd=ABCD 提取码：ABCD
+
+移动云盘：https://caiyun.139.com/m/i?185CEhzD0HREF 提取码:XuDj
+```
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/6c0df16703e74242905d23bec6aa3ff3.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/8027d40483ae435b9135ef410233e5fd.jpeg)
+
+
+### 2.2 驱动程序（CH341SER.EXE）
 ==所有的软件程序都分享在云盘提供学习下载==
 下载官网：[CH341SER.EXE - 南京沁恒微电子股份有限公司](https://www.wch.cn/download/ch341ser_exe.html)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/6c2eff97230642a98a06b304af2295f7.png)
 
-### 2.2 烧录工具（nodemcu-flasher/ESP8266Flasher.exe）
+### 2.3 烧录工具（分享了两个）
+
+提供了两个烧录工具，ESP8266Flasher和flash_download_tool_3.9.6
+
 ==所有的软件程序都分享在云盘提供学习下载==
 >下载官网：[GitHub nodemcu/nodemcu-flasher: A firmware Flash tool for nodemcu
 ](https://github.com/nodemcu/nodemcu-flasher)
@@ -56,10 +74,11 @@ DIY项目： 由于易用性和低成本，ESP8266被广泛应用于各种DIY项
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/4e1d6b79a2a743008f1ee6132be66b94.png)
 
 
-### 2.3 烧录固件（均来自网络包括GitHub）
+### 2.4 烧录固件（均来自网络包括GitHub）
 分享了两个固件，`Wi-PWN.9.0.english.bin`和`Wi-PWN.7.0.中文.bin`,我使用的是`Wi-PWN.7.0.中文.bin`
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/f9c2ceb6c3d3443e9a750ee38e2e524c.png)
+
 
 
 
